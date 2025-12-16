@@ -15,8 +15,8 @@
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 ---Lo fundamental primero es crear un repositorio propio para poder alojar el repositorio que queremos clonar.
-- ![pregunta1_1](/home/dam/Imágenes/Capturas de pantalla/Captura desde 2025-12-1613-26-41.png)
-- ![pregunta2_2](/home/dam/Imágenes/Capturas de pantalla/Captura desde 2025-12-16 13-26-41.png)
+- ![Captura desde 2025-12-16 13-26-41.png](../../../../Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-12-16%2013-26-41.png)
+- ![Captura desde 2025-12-16 13-32-32.png](../../../../Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-12-16%2013-32-32.png)
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
