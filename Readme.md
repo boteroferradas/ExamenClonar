@@ -25,6 +25,12 @@ Pregunta
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+<img width="1401" height="715" alt="Captura desde 2025-12-16 13-39-17" src="https://github.com/user-attachments/assets/dccc077b-6ea5-4109-be69-e917cd446896" />
+<img width="1401" height="715" alt="Captura desde 2025-12-16 13-39-35" src="https://github.com/user-attachments/assets/19959103-e4cf-4439-9ff5-a791ceba5842" />
+<img width="702" height="362" alt="Captura desde 2025-12-16 13-40-19" src="https://github.com/user-attachments/assets/909a7156-cd6e-4db0-b509-2c6cbdea71e8" />
+<img width="471" height="197" alt="Captura desde 2025-12-16 13-40-31" src="https://github.com/user-attachments/assets/86e9205d-44d6-450b-9c26-c35f26404d40" />
+<br>
+<img width="504" height="288" alt="Captura desde 2025-12-16 13-40-41" src="https://github.com/user-attachments/assets/52f4bc6f-44e1-4d2f-8053-affd9acd5c33" />
 
 ### Apartado 3
 
