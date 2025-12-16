@@ -38,4 +38,8 @@ Pregunta
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+<img width="1111" height="341" alt="Captura desde 2025-12-16 14-14-24" src="https://github.com/user-attachments/assets/e39ffa93-6915-46e4-a6cf-723f4d6cfae8" />
+<img width="964" height="268" alt="Captura desde 2025-12-16 14-14-13" src="https://github.com/user-attachments/assets/d915905f-71b1-4d96-bc61-bf45664541b3" />
+<img width="691" height="212" alt="Captura desde 2025-12-16 14-14-34" src="https://github.com/user-attachments/assets/8a372e0c-9227-4f75-9907-048ca9286ecb" />
+
 
